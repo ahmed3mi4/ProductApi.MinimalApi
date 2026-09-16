@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="ProductApi.FastEndpoints/ProductApi.FastEndpoints.csproj" Id="a22d8526-66fd-4083-859a-a40212646486" />
   <Project Path="ProductApi.MinimalApi/ProductApi.MinimalApi.csproj" />
 </Solution>
